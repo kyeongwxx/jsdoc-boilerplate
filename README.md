@@ -1,23 +1,7 @@
-# JSDoc Boilerplate
+wanted-pre-onboarding-challenge-fe-2
+---
+김경우
 
-## Usage
-
-### Install
-
-```bash
-npm install
-or
-yarn
-```
-
-### Build
-
-```bash
-npm run docs
-or
-yarn docs
-```
-
-#### Reference
-
-- [jsdoc.app](https://jsdoc.app)
+사전과제 Github page
+<br />
+https://kyeongwxx.github.io/wanted-pre-onboarding-challenge-fe-2/docs/index.html
